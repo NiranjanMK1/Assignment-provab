@@ -1,0 +1,27 @@
+03/16/2023 01:09:21 AM: INFO: ****Teststarted****
+03/16/2023 01:09:25 AM: INFO: opened the login page
+03/16/2023 01:09:26 AM: INFO: user clicked on login with OTP
+03/16/2023 01:24:19 AM: INFO: ****Teststarted****
+03/16/2023 01:24:22 AM: INFO: opened the login page
+03/16/2023 01:24:24 AM: INFO: user clicked on login with OTP
+03/16/2023 01:24:24 AM: INFO: Reading data from excel file started
+03/16/2023 01:24:24 AM: INFO: passing email id to the textbox
+03/16/2023 01:24:24 AM: INFO: sucessfully passed data to the textbox
+03/16/2023 01:24:24 AM: INFO: User clicked on the next button
+03/16/2023 01:24:25 AM: INFO: user sucessfully opened mailbox
+03/16/2023 01:24:25 AM: INFO: user sucessfully copied the otp
+03/16/2023 01:24:25 AM: INFO: user sucessfully swithced back to previous window to enter otp
+03/16/2023 01:24:25 AM: INFO: user sucessfully copied the otp
+03/16/2023 01:24:35 AM: INFO: user sucessfully enterd otp
+03/16/2023 01:26:30 AM: INFO: ****Teststarted****
+03/16/2023 01:26:33 AM: INFO: opened the login page
+03/16/2023 01:26:34 AM: INFO: user clicked on login with OTP
+03/16/2023 01:26:34 AM: INFO: Reading data from excel file started
+03/16/2023 01:26:34 AM: INFO: passing email id to the textbox
+03/16/2023 01:26:34 AM: INFO: sucessfully passed data to the textbox
+03/16/2023 01:26:35 AM: INFO: User clicked on the next button
+03/16/2023 01:26:36 AM: INFO: user sucessfully opened mailbox
+03/16/2023 01:26:36 AM: INFO: user sucessfully copied the otp
+03/16/2023 01:26:36 AM: INFO: user sucessfully swithced back to previous window to enter otp
+03/16/2023 01:26:36 AM: INFO: user sucessfully copied the otp
+03/16/2023 01:26:46 AM: INFO: user sucessfully enterd otp
