@@ -1,4 +1,4 @@
-*.python lingurist-detectable = true
+*.py lingurist-detectable = true
 *.js lingurist-detectable = false
 *.html lingurist-detectable = false
 *.xml lingurist-detectable = false
