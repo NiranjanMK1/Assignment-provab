@@ -6,7 +6,7 @@ Feature: Login to Hubbler
     Then User enter valid login details from excel
     And User click on the Next button
     And User Go to email in a new tab in chrome
-    #Then User Search  OTP sent by 'hubblermail'
+    #Then User Search  OTP sent by 'hubblermail'        step is passed as i dont have the credentials to log into
     And User copy the OTP
     And User Return to enter the OTP screen for hubbler
     And User paste the OTP

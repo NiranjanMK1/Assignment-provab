@@ -6,9 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from Utilities.logger import LogGen
-import allure
 import openpyxl
-
 log = LogGen.loggen()
 
 
@@ -55,7 +53,7 @@ def step_impl(context):
     context.driver.execute_script("window.open('');")
     context.driver.switch_to.window(context.driver.window_handles[1])
     context.driver.get("https://mail.google.com/mail/u/0/")
-    log.info("user sucessfully opened mailbox")
+    log.info("user successfully opened mailbox")
 
 
 # @then(u'I search for the OTP sent by hubbler mail')
@@ -71,7 +69,7 @@ def step_impl(context):
 @then(u'User copy the OTP')
 def otp_copy(context):
     copy_otp = 2464646  # otp_capture(context)
-    log.info("user sucessfully copied the otp")
+    log.info("user successfully copied the otp")
     return copy_otp
 
 
@@ -79,7 +77,7 @@ def otp_copy(context):
 def step_impl(context):
     window_handles = context.driver.window_handles
     context.driver.switch_to.window(window_handles[-2])
-    log.info("user sucessfully swithced back to previous window to enter otp")
+    log.info("user successfully swithced back to previous window to enter otp")
 
 
 @then(u'User paste the OTP')
