@@ -1,0 +1,5 @@
+*.python lingurist-detectable = true
+*.js lingurist-detectable = false
+*.html lingurist-detectable = false
+*.xml lingurist-detectable = false
+*.java lingurist-detectable = false
